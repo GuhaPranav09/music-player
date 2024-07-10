@@ -52,6 +52,12 @@ This file contains the data for the songs used in the application. Each song inc
    ```bash
    cd music-player-app
    ```
+3. Install specific dependencies
+```bash
+   npm install --save @fortawesome/react-fontawesome
+   npm install --save @fortawesome/free-solid-svg-icons
+   npm install sass
+   ```
 3. Install the dependencies:
    ```bash
    npm install
