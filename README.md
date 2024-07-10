@@ -46,7 +46,7 @@ This file contains the data for the songs used in the application. Each song inc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/music-player-app.git
+   git clone https://github.com/GuhaPranav09/music-player-app.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -80,14 +80,6 @@ The application should now be running on `http://localhost:3000`.
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to contribute to the project by submitting issues or pull requests. If you encounter any problems or have suggestions for improvements, please let us know!
-
----
-
-**Note**: Update the repository URL in the installation section with the actual URL of your repository.
 
 ---
 
