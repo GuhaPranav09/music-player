@@ -62,7 +62,7 @@ function chillHop() {
       name: "Nenjukkul Peidhidum", 
       cover: 
 "https://i.pinimg.com/564x/c1/78/57/c17857aadf2060eb05f6adeb39efdf20.jpg", 
-      artist: "Island Rhythms", 
+      artist: "Harris Jayaraj", 
       audio: 
 "https://aac.saavncdn.com/635/7482341659875f67c658dc9a7d7a2ad4_160.mp4", 
 
