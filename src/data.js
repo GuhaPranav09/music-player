@@ -70,6 +70,72 @@ function chillHop() {
       id: uuidv4(), 
       active: false, 
     }, 
+    { 
+      name: "Perfect", 
+      cover: 
+"https://upload.wikimedia.org/wikipedia/en/d/d7/Ed_Sheeran_Perfect.png", 
+      artist: "Ed Sheeran", 
+      audio: 
+"https://aac.saavncdn.com/415/7624be6e5b093d0e3f7ef06d541a69fa_160.mp4", 
+      color: ["#f3a683", "#f19066"], 
+      id: uuidv4(), 
+      active: false, 
+    }, 
+    { 
+      name: "Believer", 
+      cover: 
+"https://upload.wikimedia.org/wikipedia/en/e/e7/Imagine_Dragons_Believer.jpg", 
+      artist: "Imagine Dragons", 
+      audio: 
+"https://aac.saavncdn.com/809/bf2b3c168b0216885c580fa50f40d616_160.mp4", 
+      color: ["#ffeaa7", "#fdcb6e"], 
+      id: uuidv4(), 
+      active: false, 
+    }, 
+    { 
+      name: "Shape of You", 
+      cover: 
+"https://upload.wikimedia.org/wikipedia/en/4/45/Shape_of_You_%28Official_Single_Cover%29_by_Ed_Sheeran.png", 
+      artist: "Ed Sheeran", 
+      audio: 
+"https://aac.saavncdn.com/739/7a5b784c7c3d6aeecc6a7edc1f66a1ca_160.mp4", 
+      color: ["#6c5ce7", "#74b9ff"], 
+      id: uuidv4(), 
+      active: false, 
+    }, 
+    { 
+      name: "Senorita", 
+      cover: 
+"https://upload.wikimedia.org/wikipedia/en/8/8f/Shawn_Mendes_and_Camila_Cabello_-_Senorita.png", 
+      artist: "Shawn Mendes, Camila Cabello", 
+      audio: 
+"https://aac.saavncdn.com/249/98e52a93ff0a4e57c135d848ebc7aeb6_160.mp4", 
+      color: ["#fd79a8", "#e84393"], 
+      id: uuidv4(), 
+      active: false, 
+    }, 
+    { 
+      name: "Lover", 
+      cover: 
+"https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png", 
+      artist: "Taylor Swift", 
+      audio: 
+"https://aac.saavncdn.com/897/1f0fa22d7bb7a4b8197f2f3f5f283a12_160.mp4", 
+      color: ["#ff7675", "#d63031"], 
+      id: uuidv4(), 
+      active: false, 
+    }, 
+    { 
+      name: "Blinding Lights", 
+      cover: 
+"https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png", 
+      artist: "The Weeknd", 
+      audio: 
+"https://aac.saavncdn.com/850/1d1204b18c3fe6a7a83c6063f5f2a331_160.mp4", 
+      color: ["#00b894", "#00cec9"], 
+      id: uuidv4(), 
+      active: false, 
+    },
   ]; 
 } 
   
