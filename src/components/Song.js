@@ -1,15 +1,34 @@
-// FileName: Song.js 
+// // FileName: Song.js 
   
-import React from "react"; 
+// import React from "react"; 
   
-const Song = ({ currentSong }) => { 
-    return ( 
-        <div className="song-container"> 
-            <img src={currentSong.cover} alt={currentSong.name} /> 
-            <h2>{currentSong.name}</h2> 
-            <h3>{currentSong.artist}</h3> 
-        </div> 
-    ); 
-}; 
+// const Song = ({ currentSong }) => { 
+//     return ( 
+//         <div className="song-container"> 
+//             <img src={currentSong.cover} alt={currentSong.name} /> 
+//             <h2>{currentSong.name}</h2> 
+//             <h3>{currentSong.artist}</h3> 
+//         </div> 
+//     ); 
+// }; 
   
+// export default Song;
+// FileName: Song.js
+
+import React, { Component } from "react";
+
+class Song extends Component {
+    render() {
+        const { currentSong } = this.props;
+
+        return (
+            <div className="song-container">
+                <img src={currentSong.cover} alt={currentSong.name} />
+                <h2>{currentSong.name}</h2>
+                <h3>{currentSong.artist}</h3>
+            </div>
+        );
+    }
+}
+
 export default Song;
